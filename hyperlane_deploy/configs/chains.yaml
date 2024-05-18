@@ -1,0 +1,15 @@
+inco:
+  name: inco
+  chainId: 9090
+  domainId: 9090
+  protocol: ethereum
+  rpcUrls:
+    - http: https://testnet.inco.org/
+holesky:
+  name: holesky
+  chainId: 17069
+  domainId: 17069
+  protocol: ethereum
+  rpcUrls:
+    - http: https://rpc.garnetchain.com/
+
